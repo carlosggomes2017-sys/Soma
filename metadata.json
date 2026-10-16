@@ -1,0 +1,6 @@
+{
+  "name": "PortalPay Treasury",
+  "description": "Plataforma corporativa de consulta pública de previsão de pagamentos, autenticação de tesouraria para CFO e controladores fiscais, e importação inteligente de relatórios financeiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
